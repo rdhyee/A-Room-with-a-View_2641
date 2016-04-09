@@ -1,0 +1,51 @@
+_repo: A-Room-with-a-View_2641
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: "A Room with a View is a 1908 novel by English writer E. M. Forster,\
+  \ about a young woman in the restrained culture of Edwardian era England. Set in\
+  \ Italy and England, the story is both a romance and a critique of English society\
+  \ at the beginning of the 20th century. Merchant-Ivory produced an award-winning\
+  \ film adaptation in 1985.\nThe Modern Library ranked A Room with a View 79th on\
+  \ its list of the 100 best English-language novels of the 20th century (1998).\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2641'
+  wikidata: Q120288
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'British -- Italy -- Fiction'
+- !lcsh 'Florence (Italy) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- GITenberg
+title: A Room with a View
+url: http://www.gutenberg.org/ebooks/2641
+wikipedia:
+- https://fr.wikipedia.org/wiki/Avec_vue_sur_l%27Arno
+- https://ar.wikipedia.org/wiki/%D8%BA%D8%B1%D9%81%D8%A9_%D9%85%D8%B9_%D9%85%D9%86%D8%B8%D8%B1
+- https://zh.wikipedia.org/wiki/%E7%9C%8B%E5%BE%97%E8%A7%81%E9%A3%8E%E6%99%AF%E7%9A%84%E6%88%BF%E9%97%B4
+- https://ja.wikipedia.org/wiki/%E7%9C%BA%E3%82%81%E3%81%AE%E3%81%84%E3%81%84%E9%83%A8%E5%B1%8B
+- https://cs.wikipedia.org/wiki/Pokoj_s_vyhl%C3%ADdkou
+- https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%D8%A7%D9%82%DB%8C_%D8%A8%D8%A7_%DB%8C%DA%A9_%D9%85%D9%86%D8%B8%D8%B1%D9%87
+- https://de.wikipedia.org/wiki/Zimmer_mit_Aussicht
+- https://en.wikipedia.org/wiki/A_Room_with_a_View
+- https://it.wikipedia.org/wiki/Camera_con_vista
+- https://la.wikipedia.org/wiki/A_Room_with_a_View
+- https://tr.wikipedia.org/wiki/Manzaral%C4%B1_Bir_Oda_(roman)
+- https://he.wikipedia.org/wiki/%D7%97%D7%93%D7%A8_%D7%A2%D7%9D_%D7%A0%D7%95%D7%A3
